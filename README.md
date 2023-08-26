@@ -1,7 +1,7 @@
 # PlatoGPT
 
 ## About the Project
-This project is all about learning and having a bit of fun. I'm diving deeper into the world of ML, and a friend recently gifted me "The Republic" by Plato. The book has been sitting on my desk, staring at me every day. So, I decided, why not combine the two interests? Thus, this text generation model was born. It's trained on "The Republic" and built using the Transformer architecture. While I haven't read the book yet, the model generates text in the style of Plato. :)
+This project is all about learning and having a bit of fun. I'm diving deeper into the world of ML, and a friend recently gifted me "The Republic" by Plato. The book has been sitting on my desk, staring at me every day. So, I decided, why not combine the two? Thus, this text generation model was born. It's trained on "The Republic" and built using the Transformer architecture. While I haven't read the book yet, the model generates text in the style of Plato. :)
 
 ## Architecture
 The core of the project is built using the Transformer model, which consists of the following components:
